@@ -1,0 +1,7 @@
+vish_stacktrace.vstf
+Encoder.qpf
+Encoder.qsf
+output_files/
+incremental_db/
+db/
+work/

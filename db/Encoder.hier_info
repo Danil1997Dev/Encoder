@@ -1,0 +1,13 @@
+|enc
+a => always1.IN0
+b => always1.IN1
+cnt[0] <= cnt[0].DB_MAX_OUTPUT_PORT_TYPE
+cnt[1] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[2] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[3] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[4] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[5] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[6] <= cnt.DB_MAX_OUTPUT_PORT_TYPE
+cnt[7] <= cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+
+

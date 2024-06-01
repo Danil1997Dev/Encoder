@@ -1,0 +1,12 @@
+module enc
+	(
+	input a,b,
+	output cnt
+	);
+	
+	reg a_buf,b_buf;
+	
+	always @(a,b)
+		begin
+			a
+		end
