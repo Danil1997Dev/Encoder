@@ -1,6 +1,7 @@
 vish_stacktrace.vstf
 Encoder.qpf
 Encoder.qsf
+Encoder.qws
 output_files/
 incremental_db/
 db/
